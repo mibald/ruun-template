@@ -73,11 +73,6 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
       },
     ],
   ],
-  extra: {
-    eas: {
-      projectId: "ee5b7ede-785b-41f2-b888-6613bef64c1a",
-    },
-  },
 });
 
 export const font = "Montserrat";
